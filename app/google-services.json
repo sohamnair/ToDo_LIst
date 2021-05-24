@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1042193193402",
+    "firebase_url": "https://fir-demo-d452d.firebaseio.com",
+    "project_id": "fir-demo-d452d",
+    "storage_bucket": "fir-demo-d452d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042193193402:android:ab4d0f6c7dbead97c06583",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042193193402-1n8g6to5u2f62bc7boai5jjc2q2dcahk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3MNG6jLSpynx8TyTQ7UqMupfEmWpBypM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042193193402-1n8g6to5u2f62bc7boai5jjc2q2dcahk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
